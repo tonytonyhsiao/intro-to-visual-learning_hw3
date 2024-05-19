@@ -18,11 +18,12 @@ We train the network for 20 epochs with pretrained VGG-16 weights and record the
 
 
 ![The result of the semantic segmentation using FCN-8s model](https://github.com/tonytonyhsiao/intro-to-visual-learning_hw3/blob/main/fig/fcn-8%20result.png)
+
 The result of the semantic segmentation using FCN-8s model
 
 
-FCN-8s layer
 ![FCN-8s layer](https://github.com/tonytonyhsiao/intro-to-visual-learning_hw3/blob/main/fig/fcn-8%20result.png)
+
 FCN-8s layer
 
 
