@@ -16,8 +16,8 @@ This project contains two parts.
 ## FCN(Fully Convolutional Network)
 We train the network for 20 epochs with pretrained VGG-16 weights and record the best model. Visualize the prediction results and report the test accuracy.
 
-The result of the semantic segmentation using FCN-8s model
-!(https://github.com/tonytonyhsiao/intro-to-visual-learning_hw3/blob/main/fig/fcn-8%20result.png)
+
+![The result of the semantic segmentation using FCN-8s model](https://github.com/tonytonyhsiao/intro-to-visual-learning_hw3/blob/main/fig/fcn-8%20result.png)
 
 FCN-8s layer
 !(https://github.com/tonytonyhsiao/intro-to-visual-learning_hw3/blob/main/fig/fcn-8%20result.png)
